@@ -1,12 +1,20 @@
 📍 **Prague** (originally Macedonia) | 🎨 **Multimedia Designer** | 🛠️ **AI-Assisted Tool Builder**
 
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/-Antigravity-202124?style=flat-square)
+![OpenCode Go](https://img.shields.io/badge/-OpenCode%20Go-000000?style=flat-square&logo=opencode&logoColor=white)
+![Pane](https://img.shields.io/badge/-Pane-0D1117?style=flat-square)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
 ![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEzLjk2NiAyMi42MjRsLTEuNjktNC4yODFIOC4xMjJsMy44OTItOS4xNDQgNS42NjIgMTMuNDI1aC0zLjcxem0uODkzLTIuMDkyTDE4LjU4OSAxMkgyNEwxNC44NTkgMjAuNTMyek0wIDEybDUuNDExLTguNTMyaDUuMTM1TDUuNTQ2IDEySDB6Ii8+PC9zdmc+)
 ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-A259FF?style=flat-square&logo=figma&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4xdjkuNDUxSDBtMTAuOTQ5LTkuNjAyTDI0IDB2MTEuNEgxMC45NDlNMCAxMi42aDkuNzV2OS40NTFMMCAyMC42OTlNMTAuOTQ5IDEyLjZIMjRWMjRsLTEyLjktMS44MDEiLz48L3N2Zz4=)
+
+![Google Flow](https://img.shields.io/badge/-Google%20Flow-4285F4?style=flat-square&logo=google&logoColor=white)
+![Seedance 2.0](https://img.shields.io/badge/-Seedance%202.0-000000?style=flat-square&logo=bytedance&logoColor=white)
 
 > I'm not a developer -- I'm a designer who uses AI agents to build the tools I actually need.
 
