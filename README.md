@@ -38,7 +38,6 @@
 <details>
 <summary>Random Facts</summary>
 
-- I operate in two modes -- creative chaos and precise structure
 - Self-taught everything -- no shortcuts, no inherited network, just obsession and compound interest
 - Balkan roots shaped my eye and my work ethic
 - Made an [AI album](https://tr.ee/URjo78EDK-) -- an experiment from a specific moment in time that already sounds like a different era
