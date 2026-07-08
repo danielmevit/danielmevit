@@ -18,6 +18,7 @@
 
 ## Current Projects (WIPs)
 
+- ✒️ **[Vecto](https://github.com/DanielMevit/Vecto)** -- Free, open-source image-to-vector converter.
 - 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** -- Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
 - 🪟 **[Floato](https://github.com/DanielMevit/Floato)** -- C# WPF Windows desktop tray utility for window management - opacity, always-on-top, PiP, click-through, anchors, grouping, hotkeys, visual effects
 - 🖨️ **[PressReady](https://github.com/DanielMevit/PressReady)** -- Print preparation utility for creating final, press-ready PDFs
