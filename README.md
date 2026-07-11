@@ -52,9 +52,11 @@
 [![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/danielmevit)
 
 
-<a href="https://github.com/sponsors/danielmevit">
-  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="GitHub Sponsors" height="36" />
-</a>
-<a href="https://ko-fi.com/danielmevit">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" height="36" />
-</a>
+<div align="center">
+  <a href="https://github.com/sponsors/danielmevit">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?style=for-the-badge&logo=github" alt="GitHub Sponsors" />
+  </a>
+  <a href="https://ko-fi.com/danielmevit">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</div>
