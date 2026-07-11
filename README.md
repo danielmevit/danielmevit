@@ -22,6 +22,15 @@
 - 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** -- Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
 - 🖨️ **[PressReady](https://github.com/DanielMevit/PressReady)** -- Print preparation utility for creating final, press-ready PDFs
 
+<div align="left">
+  <a href="https://github.com/sponsors/danielmevit">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?style=for-the-badge&logo=github" alt="GitHub Sponsors" />
+  </a>
+  <a href="https://ko-fi.com/danielmevit">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</div>
+
 ## What I'm Doing
 
 - **Designing across mediums** -- Graphic design, motion, 3D, UI, AI-assisted visuals - depth over specialization
@@ -50,13 +59,3 @@
 [![YouTube](https://img.shields.io/badge/-@danielmevit-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@danielmevit)
 [![Website](https://img.shields.io/badge/-danielmevit.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](http://danielmevit.com)
 [![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/danielmevit)
-
-
-<div align="left">
-  <a href="https://github.com/sponsors/danielmevit">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?style=for-the-badge&logo=github" alt="GitHub Sponsors" />
-  </a>
-  <a href="https://ko-fi.com/danielmevit">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-</div>
