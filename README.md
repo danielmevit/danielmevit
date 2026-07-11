@@ -18,16 +18,20 @@
 
 ## Current Projects (WIPs)
 
-- ✒️ **[Vecto](https://github.com/DanielMevit/Vecto)** -- Free, open-source image-to-vector converter.
+- 📐 **[Vecto](https://github.com/DanielMevit/Vecto)** -- Free, open-source image-to-vector converter.
 - 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** -- Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
 - 🖨️ **[PressReady](https://github.com/DanielMevit/PressReady)** -- Print preparation utility for creating final, press-ready PDFs
 
+## Support the Work
+
+If you want to help code or improve these tools, I'd love that! Otherwise, any support or donations just buy me the time to keep working on them and turn my backlog of ideas into actual apps.
+
 <div align="left">
   <a href="https://github.com/sponsors/danielmevit">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?style=for-the-badge&logo=github" alt="GitHub Sponsors" />
+    <img src="https://img.shields.io/badge/GitHub_Sponsor-212830?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsor" />
   </a>
   <a href="https://ko-fi.com/danielmevit">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+    <img src="https://img.shields.io/badge/Ko--fi-212830?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </div>
 
