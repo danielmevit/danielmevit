@@ -14,7 +14,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-212830?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4xdjkuNDUxSDBtMTAuOTQ5LTkuNjAyTDI0IDB2MTEuNEgxMC45NDlNMCAxMi42aDkuNzV2OS40NTFMMCAyMC42OTlNMTAuOTQ5IDEyLjZIMjRWMjRsLTEyLjktMS44MDEiLz48L3N2Zz4=)
 ![Ubuntu VM](https://img.shields.io/badge/-Ubuntu%20VM-212830?style=flat-square&logo=ubuntu&logoColor=white)
 
-> I'm not a developer -- I'm a designer who uses AI agents to build the tools I actually need.
+> I'm building the tools I actually need.
 
 ## Current Projects (WIPs)
 
