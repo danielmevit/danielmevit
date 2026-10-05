@@ -18,10 +18,11 @@
 
 ## Current Projects (WIPs)
 
+- 🫧 **[Unio](https://github.com/danielmevit/unio)** -- Connect AI coding tools from different companies into one workspace.
+- 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** -- Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only.
 - 🪄 **[Vecto](https://github.com/DanielMevit/Vecto)** -- Free, open-source image-to-vector converter.
-- 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** -- Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
-- 🖨️ **[Laydown](https://github.com/DanielMevit/PressReady)** -- Print preparation utility for creating final, press-ready PDFs
-- 🫧 **[Unio](https://github.com/danielmevit/unio)** -- Connect AI coding tools from different companies into one workspace
+- 🖨️ **[Laydown](https://github.com/DanielMevit/PressReady)** -- Print preparation utility for creating final, press-ready PDFs.
+
 
 ## Support the Work
 
